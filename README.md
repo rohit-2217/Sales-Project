@@ -1,7 +1,7 @@
 # Sales-Project
 Sales Data Analysis Projects
 E-commerce Sales Analysis | Pizza Sales Analysis
-
+ 
 Welcome to the Sales Data Analysis project, where we delve into the world of data-driven decision-making through the exploration of two distinct sales domains - E-commerce and Pizza Sales. This repository houses the code and insights from our data analysis efforts, leveraging a powerful tech stack that includes Power BI, SQL, and Python. Additionally, we've harnessed the art of web scraping using Python tools like Beautiful Soup to extract valuable data.
 
 Project Highlights:
